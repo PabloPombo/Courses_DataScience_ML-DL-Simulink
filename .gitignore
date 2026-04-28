@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos pesados o innecesarios
+*.exe
+*.zip
+
+# Imágenes (opcional, solo si no las necesitas en el repo)
+*.png
+*.jpg
+
+# PDFs (igual, opcional)
+*.pdf
+
+# Entornos
+.env
+venv/
